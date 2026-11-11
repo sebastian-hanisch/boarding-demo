@@ -3,7 +3,7 @@
 **[→ Demo live ausprobieren](https://sebastianhanisch-boarding-demo.streamlit.app/)**
 
 Fall-Demo im Portfolio von [Sebastian Hanisch](https://sebastianhanisch.net) (Operations Research und Machine Learning), Themenseite
-[ÖPNV und Fernverkehr optimieren](https://sebastianhanisch.net/oepnv-fernverkehr-optimierung.html). Erste Demo des Portfolios, die den **Einstieg der Fahrgäste als Reihenfolge-Regel** zeigt
+[Sitzplätze optimieren](https://sebastianhanisch.net/sitzplaetze-optimieren.html). Erste Demo des Portfolios, die den **Einstieg der Fahrgäste als Reihenfolge-Regel** zeigt
 (die Bahn-Demos zeigen die Betreiber-Sicht, [sitzplatz-demo](https://github.com/sebastian-hanisch/sitzplatz-demo) die Platzwahl des Fahrgastes). Vehikel: ein Flugzeug mit einem Gang.
 
 ## Kernfrage
@@ -161,4 +161,4 @@ Streamlit Community Cloud: die Python-Version ist dort in den App-Einstellungen 
 
 Gebaut mit Streamlit und Plotly.
 
-Diese Demo ist Teil des Portfolios von [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning ([Über mich](https://sebastianhanisch.net/ueber-mich.html)). Mehr zum Thema: [ÖPNV und Fernverkehr optimieren](https://sebastianhanisch.net/oepnv-fernverkehr-optimierung.html).
+Diese Demo ist Teil des Portfolios von [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning ([Über mich](https://sebastianhanisch.net/ueber-mich.html)). Mehr zum Thema: [Sitzplätze optimieren](https://sebastianhanisch.net/sitzplaetze-optimieren.html).
